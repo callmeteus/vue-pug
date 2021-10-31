@@ -1,0 +1,13 @@
+{
+  "name": "vue-pug",
+  "version": "1.0.0",
+  "description": "Compiles plain pug files into vue.js templates; compatible with webpack",
+  "repository": "https://github.com/theprometeus/vue-pug",
+  "main": "src/index.js",
+  "author": "Matheus Giovani <matheus@ad3com.com.br>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "pug": "^3.0.2"
+  }
+}
