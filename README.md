@@ -1,4 +1,4 @@
-#vue-pug
+# vue-pug
 Compiles plain pug files into vue.js templates; compatible with webpack
 
 ---
